@@ -7,4 +7,7 @@ print(list1[0])
 def multi(a,b):
     return a+b
 
+def minus(a,b):
+    return a-b
+
 print(list1[-1])
