@@ -1,3 +1,4 @@
-print('hello')
+import random
 
-b=2
+list1=[1,2,3,4,5]
+print(list1[0])
