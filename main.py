@@ -10,4 +10,5 @@ def multi(a,b):
 def minus(a,b):
     return a-b
 
+
 print(list1[-1])
